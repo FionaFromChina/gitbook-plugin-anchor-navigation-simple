@@ -1,0 +1,18 @@
+{
+  "name": "gitbook-plugin-anchor-navigation-simple",
+  "version": "1.0.1",
+  "description": "Add anchor navigation ",
+  "main": "index.js",
+  "author": "Fiona",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
